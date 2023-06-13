@@ -1,0 +1,107 @@
+.swap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    border-bottom: 1px solid gray;
+}
+
+.footClanImg {
+width: 500px;
+height: 276px;
+margin-bottom: 50px;
+}
+
+.ninjaVanish {
+    width: 500px;
+height: 276px;
+    content: url("https://media.tenor.com/PhT9s4cetGoAAAAC/ninja-turtles.gif");
+}
+
+.swapButtonNinja {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.rollOut {
+    width: 500px;
+height: 276px;
+    content: url("https://pm1.narvii.com/6619/713c3ef2765bb791978d78a597b5c7596bd5fb05_hq.jpg");
+}
+
+.primeImg {
+    width: 500px;
+    height: 276px;
+    margin-bottom: 50px;
+}
+
+.swapButtonPrime {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.slime {
+    width: 500px;
+    height: 276px;
+    content: url("https://cdn.shopify.com/s/files/1/0631/0982/4771/products/rimuru_angry2.png?v=1659071287");
+}
+
+.slimeImg {
+    width: 500px;
+    height: 276px;
+    margin-bottom: 50px;
+}
+
+.swapButtonSlime {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.burger {
+    width: 500px;
+    height: 276px;
+    content: url("https://media.istockphoto.com/id/531278137/photo/hamburger.jpg?s=612x612&w=0&k=20&c=GnanioHnc2kJzaEu_StTU29MPiL54Y5ZxLDoKw2Uh34=");
+}
+
+.burgerImg {
+    width: 500px;
+    height: 276px;
+    margin-bottom: 50px;
+}
+
+.swapButtonWater {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.water {
+ 
+    height: 276px;
+    content: url("https://banner2.cleanpng.com/20180328/dlw/kisspng-is-the-glass-half-empty-or-half-full-water-shot-g-water-glass-5abbf6afc77e76.5128224415222678238171.jpg");
+}
+
+.waterImg {
+
+    height: 276px;
+    margin-bottom: 50px;
+}
+
+.swapButtonBWater {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
