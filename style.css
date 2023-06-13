@@ -1,9 +1,16 @@
+.swapWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .swap {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
     border-bottom: 1px solid gray;
+    width: 500px;
 }
 
 .footClanImg {
@@ -59,6 +66,14 @@ height: 276px;
 }
 
 .swapButtonSlime {
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.swapButtonBurger {
     width: 200px;
     height: 50px;
     font-weight: bold;
